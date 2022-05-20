@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  WorkingWithUIControls
+
+  Created by Noah Plützer on 19.05.22.
+  Copyright © 2022 Apple. All rights reserved.
+*/
+
+"Cancel" = "Abbrechen";
+"Featured" = "Vorgeschlagen";
+"List" = "Liste";
+"Lakes" = "Seen";
+"Rivers" = "Flüsse";
+"Mountains" = "Berge";
+"Completed Badges" = "Vollständige Abzeichen";
+"Recent Hikes" = "Letzte Wanderungen";
